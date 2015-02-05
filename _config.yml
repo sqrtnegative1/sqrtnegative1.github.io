@@ -3,9 +3,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            Imaginary
+tagline:          Kevin Lin foo bar
+url:              http://sqrtnegative1.github.io
 paginate:         1
 baseurl:          /
 author:
