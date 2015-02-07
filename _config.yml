@@ -12,11 +12,10 @@ author:
   name:           Kevin Lin
 #  url:            https://twitter.com/mdo
   email:          kevinlin@gmail.com
-pages_list:
-  About: '/about'
-  
 
 # Custom vars
 # version:          1.0.0
 # github:
 # repo:           https://github.com/poole/poole
+
+pages_list: {'About':'/about'}
