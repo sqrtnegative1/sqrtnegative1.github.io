@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Imaginary
-tagline:          Kevin Lin's blog
+tagline:          Kevin Lin&#39;s Blog
 url:              http://sqrtnegative1.github.io
 paginate:         1
 baseurl:          /
